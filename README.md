@@ -1,7 +1,7 @@
 ![Desgin and Developer](https://github.com/sanjaymalladi/sanjaymalladi/blob/main/baner%20final.png)
 
 # Sanjay Malladi
-<p allign="left">I'm Sanjay. I am currently pursuing b.tech chemical engineering from NIT Andhra Pradesh, which is one of the prestigeous college in India. I do desgining as a passion. I also do podcast as a side hustle. Besides being a chemical engineer i do enjoy a lot while learning Cse Stuff..</p>
+<p style="text-align: left;">I'm Sanjay. I am currently pursuing b.tech chemical engineering from NIT Andhra Pradesh, which is one of the prestigeous college in India. I do desgining as a passion. I also do podcast as a side hustle. Besides being a chemical engineer i do enjoy a lot while learning Cse Stuff..</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrsanjaymalladi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaymalladi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sanjaymalladi) 

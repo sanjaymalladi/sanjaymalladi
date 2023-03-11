@@ -1,4 +1,4 @@
-![Desgin and Developer](https://github.com/sanjaymalladi/sanjaymalladi/blob/main/baner.png)
+![Desgin and Developer](https://github.com/sanjaymalladi/sanjaymalladi/blob/main/banerfinal.png)
 
 ### Hi there 👋 I'm Sanjay Malladi
 I'm Sanjay. I am currently pursuing b.tech chemical engineering from NIT Andhra Pradesh, which is one of the prestigeous college in India. I do desgining as a passion. I also do podcast as a side hustle. Besides being a chemical engineer i do enjoy a lot while learning Cse Stuff..
